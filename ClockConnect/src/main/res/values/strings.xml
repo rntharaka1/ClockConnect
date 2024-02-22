@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ClockConnect</string>
+    <string name="text_state_disconnected">State: Disconnected</string>
+    <string name="button_read">Read</string>
+    <string name="button_write">Write</string>
+    <string name="button_clear_log">Clear</string>
+    <string name="text_static_read_hint">Readable characteristic</string>
+    <string name="text_static_write_hint">Writeable characteristic</string>
+    <string name="text_static_indicate_hint">Indication</string>
+    <string name="text_static_autoconnect">Scan &amp; autoconnect</string>
+    <string name="text_subscribed">Subscribed</string>
+    <string name="text_not_subscribed">Not subscribed</string>
+    <string name="text_default_write_value">Android says Hi</string>
+    <string name="text_hint_write_value">String value for write</string>
+    <string name="text_default_logs_value">Logs:</string>
+    <string name="enter_ssid">Enter SSID</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="submit_time">Submit Time</string>
+    <string name="wifi_ssid">WiFi SSID</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="ssid_password_prefix">SSID-%1$s,Pass-%2$s</string>
+    <string name="alarm_prefix">Alarm-%1$s</string>
+</resources>
